@@ -10,6 +10,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Modélisation des systèmes biologiques
 
+> Liste des auteurs du rapport. Voir consignes pour plus de détails
+
 Vous pouvez choisir d'employer ce document pour votre rapport final, si vous decider de le faire en R
 
 
@@ -54,3 +56,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ### Analyse de l’interaction entre rendements et racines
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+## Contributions des auteurs
+> Description de la contribution des différents auteurs du rapport. Voir les consignes pour plus de détail. 
